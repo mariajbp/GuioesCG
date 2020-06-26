@@ -1,0 +1,3 @@
+/Users/mariapires/Desktop/GuioesCG/Guião 8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mariapires/Desktop/GuioesCG/Guião 8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariapires/Desktop/GuioesCG/Guião 8/cmake-build-debug/CMakeFiles/class8.dir

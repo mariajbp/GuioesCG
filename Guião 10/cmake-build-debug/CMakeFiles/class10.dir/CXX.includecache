@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mariapires/Desktop/GuioesCG/Guiao10/main.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+vector
+-
+GLUT/glut.h
+-
+/usr/local/Cellar/devil/1.8.0_1/include/IL/il.h
+-
+GL/glew.h
+-
+GL/glut.h
+-
+IL/il.h
+-
+iostream
+-
+
+/usr/local/Cellar/devil/1.8.0_1/include/IL/il.h
+stdio.h
+-
+limits.h
+-
+wchar.h
+-
+
